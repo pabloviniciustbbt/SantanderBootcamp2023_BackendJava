@@ -1,0 +1,1 @@
+web: java -jar build/libs/DIO-Java-RESTful-API-0.0.1-SNAPSHOT.jar

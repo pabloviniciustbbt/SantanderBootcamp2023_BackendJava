@@ -1,2 +1,26 @@
-# SantanderBootcamp2023_BackendJava
+# Santander Bootcamp 2023 - Backend Java
+
 Bem-vindo ao repositório dos desafios de código do Santander Bootcamp 2023 - Backend Java, realizado em parceria com a DIO (Digital Innovation One). Este repositório contém as soluções desenvolvidas por mim para cada um dos desafios em Java.
+
+## Desafios de Código
+
+### 1. **Desafio Controle de Fluxo**
+   - [DesafioControleFluxo]()
+
+### 2. **Conta Banco**
+   - [ContaBanco]()
+
+### 3. **Diagramacao Iphone**
+   - [DiagramacaoIphone]()
+
+### 4. **Design Patterns**
+   - [DesignPatterns]()
+
+### 5. **Java RESTful API**
+   - [JavaRESTfulAPI]()
+
+ Sinta-se à vontade para explorar as soluções de cada desafio, verificar o código fonte e até mesmo contribuir com melhorias ou otimizações. Este repositório foi criado como parte do meu progresso no Santander Bootcamp 2023 - Fullstack Java+Angular, e estou animado em compartilhar minhas soluções com a comunidade. Se você tiver alguma dúvida ou sugestão, não hesite em abrir uma issue ou entrar em contato.
+
+Divirta-se codificando e aprendendo!
+
+  
