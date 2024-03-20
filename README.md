@@ -5,19 +5,19 @@ Bem-vindo ao repositório dos desafios de código do Santander Bootcamp 2023 - B
 ## Desafios de Código
 
 ### 1. **Desafio Controle de Fluxo**
-   - [DesafioControleFluxo]()
+   - [DesafioControleFluxo](https://github.com/pabloviniciustbbt/SantanderBootcamp2023_BackendJava/tree/main/DesafioControleFluxo)
 
 ### 2. **Conta Banco**
-   - [ContaBanco]()
+   - [ContaBanco](https://github.com/pabloviniciustbbt/SantanderBootcamp2023_BackendJava/tree/main/ContaBanco)
 
 ### 3. **Diagramacao Iphone**
-   - [DiagramacaoIphone]()
+   - [DiagramacaoIphone](https://github.com/pabloviniciustbbt/SantanderBootcamp2023_BackendJava/tree/main/DiagramacaoIphone)
 
 ### 4. **Design Patterns**
-   - [DesignPatterns]()
+   - [DesignPatterns](https://github.com/pabloviniciustbbt/SantanderBootcamp2023_BackendJava/tree/main/DesignPatterns)
 
 ### 5. **Java RESTful API**
-   - [JavaRESTfulAPI]()
+   - [JavaRESTfulAPI](https://github.com/pabloviniciustbbt/SantanderBootcamp2023_BackendJava/tree/main/JavaRESTfulAPI)
 
  Sinta-se à vontade para explorar as soluções de cada desafio, verificar o código fonte e até mesmo contribuir com melhorias ou otimizações. Este repositório foi criado como parte do meu progresso no Santander Bootcamp 2023 - Fullstack Java+Angular, e estou animado em compartilhar minhas soluções com a comunidade. Se você tiver alguma dúvida ou sugestão, não hesite em abrir uma issue ou entrar em contato.
 
